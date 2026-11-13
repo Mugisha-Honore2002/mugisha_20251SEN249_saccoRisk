@@ -123,3 +123,14 @@ honore_20251SEN249_saccoRisk/
 - Kiva. (n.d.). *Data science for good: Kiva crowdfunding* [Data set]. Kaggle. https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
 - Koffi, C. H. A., Djeundje, V. B., & Menoukeu Pamen, O. (2024). *Quantifying socio-temporal effects of loan delinquency drivers in microfinance* [Preprint]. arXiv. https://arxiv.org/abs/2410.13100
 - Oracle Corporation. (2025). *Oracle Database PL/SQL language reference, 19c* (E96448-08). https://docs.oracle.com/en/database/oracle/oracle-database/19/lnpls
+
+
+## Phase I – Business Process Modeling
+
+**Selected process:** Loan application to repayment and arrears alert in a SACCO (replace with your own words).
+
+**Modeling tool:** draw.io (diagrams.net)
+
+**Published diagram link:** [paste your link here]
+
+**Supporting explanation:** [docs/business_process/business_process_explanation.pdf](docs/business_process/business_process_explanation.pdf)
